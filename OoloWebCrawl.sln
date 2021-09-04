@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OoloWebCrawl", "OoloWebCrawl\OoloWebCrawl.csproj", "{84BF1EE6-37DA-459A-9C56-0F3553122E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BF1EE6-37DA-459A-9C56-0F3553122E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BF1EE6-37DA-459A-9C56-0F3553122E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BF1EE6-37DA-459A-9C56-0F3553122E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BF1EE6-37DA-459A-9C56-0F3553122E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13F85DA-0AE1-4EFF-BCBF-58923888F439}
+	EndGlobalSection
+EndGlobal
