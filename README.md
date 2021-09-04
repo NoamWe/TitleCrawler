@@ -14,7 +14,7 @@
 1. build and run
 
 ## API
-Use swagger
+Use swagger on localhost/5001
 1. GET /api/urls/titles?lastMinutes=<SOMEINTEGER> if no query parameter is given then the value will be taken from appsettings
 2. POST /api/urls/crawl 
   
